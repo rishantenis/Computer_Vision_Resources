@@ -84,7 +84,6 @@ This list is divided into two main sections, viz. Geometry-based Methods in Visi
 12. [A Unifying Review of Linear Gaussian Models] (http://mlg.eng.cam.ac.uk/zoubin/papers/lds.pdf)
 
 
-
 ### Introduction to Graphical Models
 
 1. Robert Collin's lectures
