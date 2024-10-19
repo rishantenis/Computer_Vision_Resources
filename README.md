@@ -42,7 +42,6 @@ This list is divided into two main sections, viz. Geometry-based Methods in Visi
 
 ## Lecture Notes
 
-
 ### Gaussian Mixture Models and EM
 
 1. Robert Collin's lectures
