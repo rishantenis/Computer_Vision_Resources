@@ -17,7 +17,6 @@ This list is divided into two main sections, viz. Geometry-based Methods in Visi
 6. [Recovering non-rigid 3D shape from image streams - Seminal work on representing non-rigid structure as a combination of basis](http://cims.nyu.edu/~bregler/bhb-cvpr00.pdf)
 
 
-
 # Geometry-based Methods in Vision
 
 ## Course Materials
