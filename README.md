@@ -86,4 +86,7 @@ This list is divided into two main sections, viz. Geometry-based Methods in Visi
 1. Robert Collin's lectures
 
   a. [Introduction to Graphical Models, Belief Propagation] (http://www.cse.psu.edu/~rtc12/CSE586/lectures/cse586GMplusMP.pdf)
+
+
+  
   
