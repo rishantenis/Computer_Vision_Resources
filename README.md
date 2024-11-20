@@ -5,6 +5,8 @@ My reading list for topics in Computer Vision
 This list is divided into two main sections, viz. Geometry-based Methods in Vision and Learning-based Methods in Vision.
 
 
+
+
 # Research Papers
 
 
